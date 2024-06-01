@@ -1,4 +1,4 @@
-#**Restaurant Book Karo Website**
+# Restaurant Book Karo Website
 
 Welcome to the README for the Restaurant Book Karu Website! This website is a project created using HTML, CSS, and JavaScript. Below you will find information on how to navigate the repository and get started with the website.
 
