@@ -48,6 +48,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 **Contact:**
 
-For any inquiries or support, feel free to contact imsachandra@gmail.com.
+For any inquiries or support, feel free to contact imsachandra@gmail.com
 
 Thank you for checking out the Restaurant Book Karu Website! We hope you enjoy using it.
